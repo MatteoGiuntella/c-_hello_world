@@ -12,3 +12,4 @@ C:\Users\Matteo\Desktop\c#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
 C:\Users\Matteo\Desktop\c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\Matteo\Desktop\c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Matteo\Desktop\c#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Matteo\Desktop\c#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

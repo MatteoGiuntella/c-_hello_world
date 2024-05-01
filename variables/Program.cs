@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+string par1 = "";
+Console.WriteLine(par1);
+string par2 = "";
+Console.WriteLine(par2);
