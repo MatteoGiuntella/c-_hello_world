@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C#Variables_special_methods/1.0.0": {
+        "runtime": {
+          "C#Variables_special_methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#Variables_special_methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

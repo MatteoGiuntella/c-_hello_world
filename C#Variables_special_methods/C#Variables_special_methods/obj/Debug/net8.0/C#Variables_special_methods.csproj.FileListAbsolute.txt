@@ -1,0 +1,15 @@
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\bin\Debug\net8.0\C#Variables_special_methods.exe
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\bin\Debug\net8.0\C#Variables_special_methods.deps.json
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\bin\Debug\net8.0\C#Variables_special_methods.runtimeconfig.json
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\bin\Debug\net8.0\C#Variables_special_methods.dll
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\bin\Debug\net8.0\C#Variables_special_methods.pdb
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.AssemblyInfoInputs.cache
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.AssemblyInfo.cs
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.sourcelink.json
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.dll
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\refint\C#Variables_special_methods.dll
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.pdb
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\C#Variables_special_methods.genruntimeconfig.cache
+C:\Users\Matteo\Desktop\c#\C#Variables_special_methods\C#Variables_special_methods\obj\Debug\net8.0\ref\C#Variables_special_methods.dll
